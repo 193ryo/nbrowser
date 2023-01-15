@@ -46,7 +46,7 @@ class WebBrowser extends StatelessWidget {
                 launchUrl(url, mode: LaunchMode.externalApplication);
               }
             },
-            child: Text('ブラウザで開くtest'),
+            child: Text('ブラウザで開く'),
           ),
           // アプリ内
           TextButton(
